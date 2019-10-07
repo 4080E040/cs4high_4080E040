@@ -16,7 +16,7 @@ With no FILE(文件), or when FILE is -, read standard(標準) input(輸入).
   -e                       equivalent to -vE
   -E, --show-ends          display(顯示) $ at end of each line
   -n, --number             number all output lines
-  -s, --squeeze-blank      suppress repeated empty output lines
+  -s, --squeeze-blank      suppress(壓制) repeated empty output lines
   -t                       equivalent to -vT
   -T, --show-tabs          display TAB characters as ^I
   -u                       (ignored)
