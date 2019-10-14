@@ -1,3 +1,4 @@
+```
 oot@kali:~# ifconfig
 docker0: flags=4099<UP,BROADCAST,MULTICAST>  mtu 1500
         inet 172.17.0.1  netmask 255.255.0.0  broadcast 172.17.255.255
@@ -30,3 +31,4 @@ lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
 問題1.
 問題1.
 問題1.lo==localhost address=?
+```
